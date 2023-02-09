@@ -1,0 +1,5 @@
+C:\Users\vayol\Documents\sist inf\-p02-area-circulo\obj\Debug\net7.0\-p02-area-circulo.csproj.AssemblyReference.cache
+C:\Users\vayol\Documents\sist inf\-p02-area-circulo\obj\Debug\net7.0\-p02-area-circulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vayol\Documents\sist inf\-p02-area-circulo\obj\Debug\net7.0\-p02-area-circulo.AssemblyInfoInputs.cache
+C:\Users\vayol\Documents\sist inf\-p02-area-circulo\obj\Debug\net7.0\-p02-area-circulo.AssemblyInfo.cs
+C:\Users\vayol\Documents\sist inf\-p02-area-circulo\obj\Debug\net7.0\-p02-area-circulo.csproj.CoreCompileInputs.cache
