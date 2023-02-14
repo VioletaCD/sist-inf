@@ -1,0 +1,15 @@
+C:\Users\vayol\Documents\sist inf\p08-funciones-trigonometricas\bin\Debug\net7.0\p08-funciones-trigonometricas.exe
+C:\Users\vayol\Documents\sist inf\p08-funciones-trigonometricas\bin\Debug\net7.0\p08-funciones-trigonometricas.deps.json
+C:\Users\vayol\Documents\sist inf\p08-funciones-trigonometricas\bin\Debug\net7.0\p08-funciones-trigonometricas.runtimeconfig.json
+C:\Users\vayol\Documents\sist inf\p08-funciones-trigonometricas\bin\Debug\net7.0\p08-funciones-trigonometricas.dll
+C:\Users\vayol\Documents\sist inf\p08-funciones-trigonometricas\bin\Debug\net7.0\p08-funciones-trigonometricas.pdb
+C:\Users\vayol\Documents\sist inf\p08-funciones-trigonometricas\obj\Debug\net7.0\p08-funciones-trigonometricas.csproj.AssemblyReference.cache
+C:\Users\vayol\Documents\sist inf\p08-funciones-trigonometricas\obj\Debug\net7.0\p08-funciones-trigonometricas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vayol\Documents\sist inf\p08-funciones-trigonometricas\obj\Debug\net7.0\p08-funciones-trigonometricas.AssemblyInfoInputs.cache
+C:\Users\vayol\Documents\sist inf\p08-funciones-trigonometricas\obj\Debug\net7.0\p08-funciones-trigonometricas.AssemblyInfo.cs
+C:\Users\vayol\Documents\sist inf\p08-funciones-trigonometricas\obj\Debug\net7.0\p08-funciones-trigonometricas.csproj.CoreCompileInputs.cache
+C:\Users\vayol\Documents\sist inf\p08-funciones-trigonometricas\obj\Debug\net7.0\p08-funciones-trigonometricas.dll
+C:\Users\vayol\Documents\sist inf\p08-funciones-trigonometricas\obj\Debug\net7.0\refint\p08-funciones-trigonometricas.dll
+C:\Users\vayol\Documents\sist inf\p08-funciones-trigonometricas\obj\Debug\net7.0\p08-funciones-trigonometricas.pdb
+C:\Users\vayol\Documents\sist inf\p08-funciones-trigonometricas\obj\Debug\net7.0\p08-funciones-trigonometricas.genruntimeconfig.cache
+C:\Users\vayol\Documents\sist inf\p08-funciones-trigonometricas\obj\Debug\net7.0\ref\p08-funciones-trigonometricas.dll

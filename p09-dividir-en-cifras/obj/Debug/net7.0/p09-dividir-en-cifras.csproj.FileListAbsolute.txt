@@ -1,0 +1,15 @@
+C:\Users\vayol\Documents\sist inf\p09-dividir-en-cifras\obj\Debug\net7.0\p09-dividir-en-cifras.csproj.AssemblyReference.cache
+C:\Users\vayol\Documents\sist inf\p09-dividir-en-cifras\obj\Debug\net7.0\p09-dividir-en-cifras.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vayol\Documents\sist inf\p09-dividir-en-cifras\obj\Debug\net7.0\p09-dividir-en-cifras.AssemblyInfoInputs.cache
+C:\Users\vayol\Documents\sist inf\p09-dividir-en-cifras\obj\Debug\net7.0\p09-dividir-en-cifras.AssemblyInfo.cs
+C:\Users\vayol\Documents\sist inf\p09-dividir-en-cifras\obj\Debug\net7.0\p09-dividir-en-cifras.csproj.CoreCompileInputs.cache
+C:\Users\vayol\Documents\sist inf\p09-dividir-en-cifras\bin\Debug\net7.0\p09-dividir-en-cifras.exe
+C:\Users\vayol\Documents\sist inf\p09-dividir-en-cifras\bin\Debug\net7.0\p09-dividir-en-cifras.deps.json
+C:\Users\vayol\Documents\sist inf\p09-dividir-en-cifras\bin\Debug\net7.0\p09-dividir-en-cifras.runtimeconfig.json
+C:\Users\vayol\Documents\sist inf\p09-dividir-en-cifras\bin\Debug\net7.0\p09-dividir-en-cifras.dll
+C:\Users\vayol\Documents\sist inf\p09-dividir-en-cifras\bin\Debug\net7.0\p09-dividir-en-cifras.pdb
+C:\Users\vayol\Documents\sist inf\p09-dividir-en-cifras\obj\Debug\net7.0\p09-dividir-en-cifras.dll
+C:\Users\vayol\Documents\sist inf\p09-dividir-en-cifras\obj\Debug\net7.0\refint\p09-dividir-en-cifras.dll
+C:\Users\vayol\Documents\sist inf\p09-dividir-en-cifras\obj\Debug\net7.0\p09-dividir-en-cifras.pdb
+C:\Users\vayol\Documents\sist inf\p09-dividir-en-cifras\obj\Debug\net7.0\p09-dividir-en-cifras.genruntimeconfig.cache
+C:\Users\vayol\Documents\sist inf\p09-dividir-en-cifras\obj\Debug\net7.0\ref\p09-dividir-en-cifras.dll

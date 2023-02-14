@@ -1,0 +1,15 @@
+C:\Users\vayol\Documents\sist inf\p07-operadores_asignacion\bin\Debug\net7.0\p07-operadores_asignacion.exe
+C:\Users\vayol\Documents\sist inf\p07-operadores_asignacion\bin\Debug\net7.0\p07-operadores_asignacion.deps.json
+C:\Users\vayol\Documents\sist inf\p07-operadores_asignacion\bin\Debug\net7.0\p07-operadores_asignacion.runtimeconfig.json
+C:\Users\vayol\Documents\sist inf\p07-operadores_asignacion\bin\Debug\net7.0\p07-operadores_asignacion.dll
+C:\Users\vayol\Documents\sist inf\p07-operadores_asignacion\bin\Debug\net7.0\p07-operadores_asignacion.pdb
+C:\Users\vayol\Documents\sist inf\p07-operadores_asignacion\obj\Debug\net7.0\p07-operadores_asignacion.csproj.AssemblyReference.cache
+C:\Users\vayol\Documents\sist inf\p07-operadores_asignacion\obj\Debug\net7.0\p07-operadores_asignacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vayol\Documents\sist inf\p07-operadores_asignacion\obj\Debug\net7.0\p07-operadores_asignacion.AssemblyInfoInputs.cache
+C:\Users\vayol\Documents\sist inf\p07-operadores_asignacion\obj\Debug\net7.0\p07-operadores_asignacion.AssemblyInfo.cs
+C:\Users\vayol\Documents\sist inf\p07-operadores_asignacion\obj\Debug\net7.0\p07-operadores_asignacion.csproj.CoreCompileInputs.cache
+C:\Users\vayol\Documents\sist inf\p07-operadores_asignacion\obj\Debug\net7.0\p07-operadores_asignacion.dll
+C:\Users\vayol\Documents\sist inf\p07-operadores_asignacion\obj\Debug\net7.0\refint\p07-operadores_asignacion.dll
+C:\Users\vayol\Documents\sist inf\p07-operadores_asignacion\obj\Debug\net7.0\p07-operadores_asignacion.pdb
+C:\Users\vayol\Documents\sist inf\p07-operadores_asignacion\obj\Debug\net7.0\p07-operadores_asignacion.genruntimeconfig.cache
+C:\Users\vayol\Documents\sist inf\p07-operadores_asignacion\obj\Debug\net7.0\ref\p07-operadores_asignacion.dll
