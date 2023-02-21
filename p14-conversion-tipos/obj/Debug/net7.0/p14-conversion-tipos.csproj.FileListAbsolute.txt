@@ -1,0 +1,15 @@
+C:\Users\vayol\Documents\sist inf\p14-conversion-tipos\bin\Debug\net7.0\p14-conversion-tipos.exe
+C:\Users\vayol\Documents\sist inf\p14-conversion-tipos\bin\Debug\net7.0\p14-conversion-tipos.deps.json
+C:\Users\vayol\Documents\sist inf\p14-conversion-tipos\bin\Debug\net7.0\p14-conversion-tipos.runtimeconfig.json
+C:\Users\vayol\Documents\sist inf\p14-conversion-tipos\bin\Debug\net7.0\p14-conversion-tipos.dll
+C:\Users\vayol\Documents\sist inf\p14-conversion-tipos\bin\Debug\net7.0\p14-conversion-tipos.pdb
+C:\Users\vayol\Documents\sist inf\p14-conversion-tipos\obj\Debug\net7.0\p14-conversion-tipos.csproj.AssemblyReference.cache
+C:\Users\vayol\Documents\sist inf\p14-conversion-tipos\obj\Debug\net7.0\p14-conversion-tipos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vayol\Documents\sist inf\p14-conversion-tipos\obj\Debug\net7.0\p14-conversion-tipos.AssemblyInfoInputs.cache
+C:\Users\vayol\Documents\sist inf\p14-conversion-tipos\obj\Debug\net7.0\p14-conversion-tipos.AssemblyInfo.cs
+C:\Users\vayol\Documents\sist inf\p14-conversion-tipos\obj\Debug\net7.0\p14-conversion-tipos.csproj.CoreCompileInputs.cache
+C:\Users\vayol\Documents\sist inf\p14-conversion-tipos\obj\Debug\net7.0\p14-conversion-tipos.dll
+C:\Users\vayol\Documents\sist inf\p14-conversion-tipos\obj\Debug\net7.0\refint\p14-conversion-tipos.dll
+C:\Users\vayol\Documents\sist inf\p14-conversion-tipos\obj\Debug\net7.0\p14-conversion-tipos.pdb
+C:\Users\vayol\Documents\sist inf\p14-conversion-tipos\obj\Debug\net7.0\p14-conversion-tipos.genruntimeconfig.cache
+C:\Users\vayol\Documents\sist inf\p14-conversion-tipos\obj\Debug\net7.0\ref\p14-conversion-tipos.dll

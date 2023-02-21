@@ -1,0 +1,15 @@
+C:\Users\vayol\Documents\sist inf\p24-paga-extra\bin\Debug\net7.0\p24-paga-extra.exe
+C:\Users\vayol\Documents\sist inf\p24-paga-extra\bin\Debug\net7.0\p24-paga-extra.deps.json
+C:\Users\vayol\Documents\sist inf\p24-paga-extra\bin\Debug\net7.0\p24-paga-extra.runtimeconfig.json
+C:\Users\vayol\Documents\sist inf\p24-paga-extra\bin\Debug\net7.0\p24-paga-extra.dll
+C:\Users\vayol\Documents\sist inf\p24-paga-extra\bin\Debug\net7.0\p24-paga-extra.pdb
+C:\Users\vayol\Documents\sist inf\p24-paga-extra\obj\Debug\net7.0\p24-paga-extra.csproj.AssemblyReference.cache
+C:\Users\vayol\Documents\sist inf\p24-paga-extra\obj\Debug\net7.0\p24-paga-extra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vayol\Documents\sist inf\p24-paga-extra\obj\Debug\net7.0\p24-paga-extra.AssemblyInfoInputs.cache
+C:\Users\vayol\Documents\sist inf\p24-paga-extra\obj\Debug\net7.0\p24-paga-extra.AssemblyInfo.cs
+C:\Users\vayol\Documents\sist inf\p24-paga-extra\obj\Debug\net7.0\p24-paga-extra.csproj.CoreCompileInputs.cache
+C:\Users\vayol\Documents\sist inf\p24-paga-extra\obj\Debug\net7.0\p24-paga-extra.dll
+C:\Users\vayol\Documents\sist inf\p24-paga-extra\obj\Debug\net7.0\refint\p24-paga-extra.dll
+C:\Users\vayol\Documents\sist inf\p24-paga-extra\obj\Debug\net7.0\p24-paga-extra.pdb
+C:\Users\vayol\Documents\sist inf\p24-paga-extra\obj\Debug\net7.0\p24-paga-extra.genruntimeconfig.cache
+C:\Users\vayol\Documents\sist inf\p24-paga-extra\obj\Debug\net7.0\ref\p24-paga-extra.dll
