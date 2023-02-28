@@ -1,0 +1,15 @@
+C:\Users\vayol\Documents\sist inf\p29-calculadora\obj\Debug\net7.0\p29-calculadora.csproj.AssemblyReference.cache
+C:\Users\vayol\Documents\sist inf\p29-calculadora\obj\Debug\net7.0\p29-calculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vayol\Documents\sist inf\p29-calculadora\obj\Debug\net7.0\p29-calculadora.AssemblyInfoInputs.cache
+C:\Users\vayol\Documents\sist inf\p29-calculadora\obj\Debug\net7.0\p29-calculadora.AssemblyInfo.cs
+C:\Users\vayol\Documents\sist inf\p29-calculadora\obj\Debug\net7.0\p29-calculadora.csproj.CoreCompileInputs.cache
+C:\Users\vayol\Documents\sist inf\p29-calculadora\bin\Debug\net7.0\p29-calculadora.exe
+C:\Users\vayol\Documents\sist inf\p29-calculadora\bin\Debug\net7.0\p29-calculadora.deps.json
+C:\Users\vayol\Documents\sist inf\p29-calculadora\bin\Debug\net7.0\p29-calculadora.runtimeconfig.json
+C:\Users\vayol\Documents\sist inf\p29-calculadora\bin\Debug\net7.0\p29-calculadora.dll
+C:\Users\vayol\Documents\sist inf\p29-calculadora\bin\Debug\net7.0\p29-calculadora.pdb
+C:\Users\vayol\Documents\sist inf\p29-calculadora\obj\Debug\net7.0\p29-calculadora.dll
+C:\Users\vayol\Documents\sist inf\p29-calculadora\obj\Debug\net7.0\refint\p29-calculadora.dll
+C:\Users\vayol\Documents\sist inf\p29-calculadora\obj\Debug\net7.0\p29-calculadora.pdb
+C:\Users\vayol\Documents\sist inf\p29-calculadora\obj\Debug\net7.0\p29-calculadora.genruntimeconfig.cache
+C:\Users\vayol\Documents\sist inf\p29-calculadora\obj\Debug\net7.0\ref\p29-calculadora.dll
