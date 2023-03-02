@@ -1,0 +1,15 @@
+C:\Users\vayol\Documents\sist inf\p39-Repaso-primer-parcial\bin\Debug\net7.0\p39-Repaso-primer-parcial.exe
+C:\Users\vayol\Documents\sist inf\p39-Repaso-primer-parcial\bin\Debug\net7.0\p39-Repaso-primer-parcial.deps.json
+C:\Users\vayol\Documents\sist inf\p39-Repaso-primer-parcial\bin\Debug\net7.0\p39-Repaso-primer-parcial.runtimeconfig.json
+C:\Users\vayol\Documents\sist inf\p39-Repaso-primer-parcial\bin\Debug\net7.0\p39-Repaso-primer-parcial.dll
+C:\Users\vayol\Documents\sist inf\p39-Repaso-primer-parcial\bin\Debug\net7.0\p39-Repaso-primer-parcial.pdb
+C:\Users\vayol\Documents\sist inf\p39-Repaso-primer-parcial\obj\Debug\net7.0\p39-Repaso-primer-parcial.csproj.AssemblyReference.cache
+C:\Users\vayol\Documents\sist inf\p39-Repaso-primer-parcial\obj\Debug\net7.0\p39-Repaso-primer-parcial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vayol\Documents\sist inf\p39-Repaso-primer-parcial\obj\Debug\net7.0\p39-Repaso-primer-parcial.AssemblyInfoInputs.cache
+C:\Users\vayol\Documents\sist inf\p39-Repaso-primer-parcial\obj\Debug\net7.0\p39-Repaso-primer-parcial.AssemblyInfo.cs
+C:\Users\vayol\Documents\sist inf\p39-Repaso-primer-parcial\obj\Debug\net7.0\p39-Repaso-primer-parcial.csproj.CoreCompileInputs.cache
+C:\Users\vayol\Documents\sist inf\p39-Repaso-primer-parcial\obj\Debug\net7.0\p39-Repaso-primer-parcial.dll
+C:\Users\vayol\Documents\sist inf\p39-Repaso-primer-parcial\obj\Debug\net7.0\refint\p39-Repaso-primer-parcial.dll
+C:\Users\vayol\Documents\sist inf\p39-Repaso-primer-parcial\obj\Debug\net7.0\p39-Repaso-primer-parcial.pdb
+C:\Users\vayol\Documents\sist inf\p39-Repaso-primer-parcial\obj\Debug\net7.0\p39-Repaso-primer-parcial.genruntimeconfig.cache
+C:\Users\vayol\Documents\sist inf\p39-Repaso-primer-parcial\obj\Debug\net7.0\ref\p39-Repaso-primer-parcial.dll
