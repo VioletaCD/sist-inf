@@ -1,0 +1,15 @@
+C:\Users\vayol\Documents\sist inf\p35-continentes-mundo\obj\Debug\net7.0\p35-continentes-mundo.csproj.AssemblyReference.cache
+C:\Users\vayol\Documents\sist inf\p35-continentes-mundo\obj\Debug\net7.0\p35-continentes-mundo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vayol\Documents\sist inf\p35-continentes-mundo\obj\Debug\net7.0\p35-continentes-mundo.AssemblyInfoInputs.cache
+C:\Users\vayol\Documents\sist inf\p35-continentes-mundo\obj\Debug\net7.0\p35-continentes-mundo.AssemblyInfo.cs
+C:\Users\vayol\Documents\sist inf\p35-continentes-mundo\obj\Debug\net7.0\p35-continentes-mundo.csproj.CoreCompileInputs.cache
+C:\Users\vayol\Documents\sist inf\p35-continentes-mundo\bin\Debug\net7.0\p35-continentes-mundo.exe
+C:\Users\vayol\Documents\sist inf\p35-continentes-mundo\bin\Debug\net7.0\p35-continentes-mundo.deps.json
+C:\Users\vayol\Documents\sist inf\p35-continentes-mundo\bin\Debug\net7.0\p35-continentes-mundo.runtimeconfig.json
+C:\Users\vayol\Documents\sist inf\p35-continentes-mundo\bin\Debug\net7.0\p35-continentes-mundo.dll
+C:\Users\vayol\Documents\sist inf\p35-continentes-mundo\bin\Debug\net7.0\p35-continentes-mundo.pdb
+C:\Users\vayol\Documents\sist inf\p35-continentes-mundo\obj\Debug\net7.0\p35-continentes-mundo.dll
+C:\Users\vayol\Documents\sist inf\p35-continentes-mundo\obj\Debug\net7.0\refint\p35-continentes-mundo.dll
+C:\Users\vayol\Documents\sist inf\p35-continentes-mundo\obj\Debug\net7.0\p35-continentes-mundo.pdb
+C:\Users\vayol\Documents\sist inf\p35-continentes-mundo\obj\Debug\net7.0\p35-continentes-mundo.genruntimeconfig.cache
+C:\Users\vayol\Documents\sist inf\p35-continentes-mundo\obj\Debug\net7.0\ref\p35-continentes-mundo.dll
