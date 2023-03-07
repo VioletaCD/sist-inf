@@ -1,4 +1,4 @@
-﻿// Administrar la Venta de Pizzas
+// Administrar la Venta de Pizzas
 
 void Menu(){
 Console.Clear();
