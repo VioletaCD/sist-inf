@@ -21,6 +21,12 @@
 - p14-conversion-tipos
 
 ## Tarea 1 15/02/23
+- p15-hipotenusa-triangulo
+- p16-calcular-angulo
+- p17-convertir-temperatura 
+- p18-volumen-cilindro 
+- p19–calculo-tiempo
+- p20-convertir-a-dolares
 
 ## Actividad 4 21/02/23
 - p21-verificar-numero
@@ -40,8 +46,16 @@
 - p31-Numeros-romanos
 - p32 -Estacionamiento
 
+## Tarea 2 
+- p33-numeros-consecutivos
+- p34-numero-mayor
+- p35-continentes-mundo
+- 
 ## Actividad 7 02/03/23
 - p39-Repaso-primer-parcial
+
+## Examen Parcial 1
+- p40–primer-parcial
 
 
 
