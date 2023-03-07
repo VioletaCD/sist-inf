@@ -1,0 +1,15 @@
+C:\Users\vayol\Documents\sist inf\p18-volumen-cilindro\bin\Debug\net7.0\p18-volumen-cilindro.exe
+C:\Users\vayol\Documents\sist inf\p18-volumen-cilindro\bin\Debug\net7.0\p18-volumen-cilindro.deps.json
+C:\Users\vayol\Documents\sist inf\p18-volumen-cilindro\bin\Debug\net7.0\p18-volumen-cilindro.runtimeconfig.json
+C:\Users\vayol\Documents\sist inf\p18-volumen-cilindro\bin\Debug\net7.0\p18-volumen-cilindro.dll
+C:\Users\vayol\Documents\sist inf\p18-volumen-cilindro\bin\Debug\net7.0\p18-volumen-cilindro.pdb
+C:\Users\vayol\Documents\sist inf\p18-volumen-cilindro\obj\Debug\net7.0\p18-volumen-cilindro.csproj.AssemblyReference.cache
+C:\Users\vayol\Documents\sist inf\p18-volumen-cilindro\obj\Debug\net7.0\p18-volumen-cilindro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vayol\Documents\sist inf\p18-volumen-cilindro\obj\Debug\net7.0\p18-volumen-cilindro.AssemblyInfoInputs.cache
+C:\Users\vayol\Documents\sist inf\p18-volumen-cilindro\obj\Debug\net7.0\p18-volumen-cilindro.AssemblyInfo.cs
+C:\Users\vayol\Documents\sist inf\p18-volumen-cilindro\obj\Debug\net7.0\p18-volumen-cilindro.csproj.CoreCompileInputs.cache
+C:\Users\vayol\Documents\sist inf\p18-volumen-cilindro\obj\Debug\net7.0\p18-volumen-cilindro.dll
+C:\Users\vayol\Documents\sist inf\p18-volumen-cilindro\obj\Debug\net7.0\refint\p18-volumen-cilindro.dll
+C:\Users\vayol\Documents\sist inf\p18-volumen-cilindro\obj\Debug\net7.0\p18-volumen-cilindro.pdb
+C:\Users\vayol\Documents\sist inf\p18-volumen-cilindro\obj\Debug\net7.0\p18-volumen-cilindro.genruntimeconfig.cache
+C:\Users\vayol\Documents\sist inf\p18-volumen-cilindro\obj\Debug\net7.0\ref\p18-volumen-cilindro.dll
