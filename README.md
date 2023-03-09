@@ -1,4 +1,4 @@
-# programas de la materia de la materia de Programación C# .NET
+# Programas de la Materia de Programación C# .NET
 
 ## Actividad 1 09/02/23
 - P01 -Hola-mundo
@@ -50,16 +50,19 @@
 - p33-numeros-consecutivos
 - p34-numero-mayor
 - p35-continentes-mundo
-- 
+- p36-compra-pizza
+- p37-calculo-notas
+- p38-aceptar-estudiante-v2
+
 ## Actividad 7 02/03/23
 - p39-Repaso-primer-parcial
 
 ## Examen Parcial 1
 - p40–primer-parcial
 
-
-
-
-
-    
-
+## Actividad 8 09/03/23
+- p41-numeros-1-a-100
+- p42-numeros-100-1
+- p43-procesa-calificaciones    
+- p44-tabla-multiplicar 
+- p45-conteo-numeros
