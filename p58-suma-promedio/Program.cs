@@ -8,8 +8,10 @@ do {
     Console.Write("Cuantas números: "); n=int.Parse(Console.ReadLine());
 
     for(int i=1; i<=n; i++) {
+        do{
         Console.Write($"Calificacion {i} : ");
         num=float.Parse(Console.ReadLine());
+        }while(num<0 || num >10);
         s+=num;
         }
         Console.WriteLine($"\nLa suma es: {s}");

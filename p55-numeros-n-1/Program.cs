@@ -1,6 +1,6 @@
 ﻿// Imprimir los numeos desde n hasta 1
 
-int n, i, p;
+int n, p;
 char resp;
 
 do{
