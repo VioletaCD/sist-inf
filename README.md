@@ -72,3 +72,22 @@
 - p47–impares-descendente
 - p48–tabla-de-conversion
 - p49–conjetura-de-collatz
+
+## Tarea 3 - Ejecución repetitiva - while
+- p50-impares-ascendente 
+- p51-pares-descendente
+- p52-conversion-temperaturas
+- p53-serie-fibonaci
+
+## Actividad 10 16/03/23
+- p54-numeros-1-n
+- p55-numeros-n-1
+- p56-arriba-abajo 
+- p57-suma-pares-impares
+- p58-suma-promedio 
+
+## Actividad 11 23/03/23
+- p59-tablas-multiplicar
+- p60-piramide
+- p61-factorial-numeros
+- p62-suma-terminos 
