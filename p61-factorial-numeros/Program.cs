@@ -12,12 +12,11 @@ do {
                 f=1;
             for(int i=1; i<=j; i++) {
                 Console.Write($"{i}");
-                if(i! = j)
+                if(i! = j){
                     Console.Write(" x ");
-                f *= i;
+                f *= i;}
         }
-        Console.WriteLinen
-        ($" = {f}");
+        Console.WriteLine($" = {f}");
     }
     Console.Write("\nDeseas continuar (S/N) ?");resp=char.ToUpper(Console.ReadLine()[0]);
 } while( resp!= 'N');
