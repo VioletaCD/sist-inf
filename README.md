@@ -104,3 +104,10 @@
 - p69-suma-rango
 - p70–tabla-multiplicar
 - p71-calificacion-letra
+
+## Actividad 13 - Funciones - Pate 2
+- p72-mayor-tres-numeros
+- p73-suma-digitos
+- p74-suma-pares-impares
+- p75-factorial
+- p76-cuadro-caracter 
