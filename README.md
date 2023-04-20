@@ -111,3 +111,7 @@
 - p74-suma-pares-impares
 - p75-factorial
 - p76-cuadro-caracter 
+
+## Actividad 14 - Repaso segundo examen parcial
+- p82 – Operaciones básicas sobre arreglos
+

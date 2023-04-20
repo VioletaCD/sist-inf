@@ -1,0 +1,15 @@
+C:\Users\vayol\Documents\sist inf\p82–Operaciones_básicas_sobre_arreglos\obj\Debug\net7.0\p82–Operaciones_básicas_sobre_arreglos.csproj.AssemblyReference.cache
+C:\Users\vayol\Documents\sist inf\p82–Operaciones_básicas_sobre_arreglos\obj\Debug\net7.0\p82–Operaciones_básicas_sobre_arreglos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vayol\Documents\sist inf\p82–Operaciones_básicas_sobre_arreglos\obj\Debug\net7.0\p82–Operaciones_básicas_sobre_arreglos.AssemblyInfoInputs.cache
+C:\Users\vayol\Documents\sist inf\p82–Operaciones_básicas_sobre_arreglos\obj\Debug\net7.0\p82–Operaciones_básicas_sobre_arreglos.AssemblyInfo.cs
+C:\Users\vayol\Documents\sist inf\p82–Operaciones_básicas_sobre_arreglos\obj\Debug\net7.0\p82–Operaciones_básicas_sobre_arreglos.csproj.CoreCompileInputs.cache
+C:\Users\vayol\Documents\sist inf\p82–Operaciones_básicas_sobre_arreglos\bin\Debug\net7.0\p82–Operaciones_básicas_sobre_arreglos.exe
+C:\Users\vayol\Documents\sist inf\p82–Operaciones_básicas_sobre_arreglos\bin\Debug\net7.0\p82–Operaciones_básicas_sobre_arreglos.deps.json
+C:\Users\vayol\Documents\sist inf\p82–Operaciones_básicas_sobre_arreglos\bin\Debug\net7.0\p82–Operaciones_básicas_sobre_arreglos.runtimeconfig.json
+C:\Users\vayol\Documents\sist inf\p82–Operaciones_básicas_sobre_arreglos\bin\Debug\net7.0\p82–Operaciones_básicas_sobre_arreglos.dll
+C:\Users\vayol\Documents\sist inf\p82–Operaciones_básicas_sobre_arreglos\bin\Debug\net7.0\p82–Operaciones_básicas_sobre_arreglos.pdb
+C:\Users\vayol\Documents\sist inf\p82–Operaciones_básicas_sobre_arreglos\obj\Debug\net7.0\p82–Operaciones_básicas_sobre_arreglos.dll
+C:\Users\vayol\Documents\sist inf\p82–Operaciones_básicas_sobre_arreglos\obj\Debug\net7.0\refint\p82–Operaciones_básicas_sobre_arreglos.dll
+C:\Users\vayol\Documents\sist inf\p82–Operaciones_básicas_sobre_arreglos\obj\Debug\net7.0\p82–Operaciones_básicas_sobre_arreglos.pdb
+C:\Users\vayol\Documents\sist inf\p82–Operaciones_básicas_sobre_arreglos\obj\Debug\net7.0\p82–Operaciones_básicas_sobre_arreglos.genruntimeconfig.cache
+C:\Users\vayol\Documents\sist inf\p82–Operaciones_básicas_sobre_arreglos\obj\Debug\net7.0\ref\p82–Operaciones_básicas_sobre_arreglos.dll
