@@ -1,0 +1,15 @@
+C:\Users\vayol\Documents\sist inf\p78-dia-semana\bin\Debug\net7.0\p78-dia-semana.exe
+C:\Users\vayol\Documents\sist inf\p78-dia-semana\bin\Debug\net7.0\p78-dia-semana.deps.json
+C:\Users\vayol\Documents\sist inf\p78-dia-semana\bin\Debug\net7.0\p78-dia-semana.runtimeconfig.json
+C:\Users\vayol\Documents\sist inf\p78-dia-semana\bin\Debug\net7.0\p78-dia-semana.dll
+C:\Users\vayol\Documents\sist inf\p78-dia-semana\bin\Debug\net7.0\p78-dia-semana.pdb
+C:\Users\vayol\Documents\sist inf\p78-dia-semana\obj\Debug\net7.0\p78-dia-semana.csproj.AssemblyReference.cache
+C:\Users\vayol\Documents\sist inf\p78-dia-semana\obj\Debug\net7.0\p78-dia-semana.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vayol\Documents\sist inf\p78-dia-semana\obj\Debug\net7.0\p78-dia-semana.AssemblyInfoInputs.cache
+C:\Users\vayol\Documents\sist inf\p78-dia-semana\obj\Debug\net7.0\p78-dia-semana.AssemblyInfo.cs
+C:\Users\vayol\Documents\sist inf\p78-dia-semana\obj\Debug\net7.0\p78-dia-semana.csproj.CoreCompileInputs.cache
+C:\Users\vayol\Documents\sist inf\p78-dia-semana\obj\Debug\net7.0\p78-dia-semana.dll
+C:\Users\vayol\Documents\sist inf\p78-dia-semana\obj\Debug\net7.0\refint\p78-dia-semana.dll
+C:\Users\vayol\Documents\sist inf\p78-dia-semana\obj\Debug\net7.0\p78-dia-semana.pdb
+C:\Users\vayol\Documents\sist inf\p78-dia-semana\obj\Debug\net7.0\p78-dia-semana.genruntimeconfig.cache
+C:\Users\vayol\Documents\sist inf\p78-dia-semana\obj\Debug\net7.0\ref\p78-dia-semana.dll

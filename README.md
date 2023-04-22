@@ -112,6 +112,13 @@
 - p75-factorial
 - p76-cuadro-caracter 
 
+## Tarea 5 - Repaso - Funciones
+- p77-numero-menor 
+- p78-dia-semana
+- p79-medidas-longitud 
+- p80-suma-multiplos
+- p81–angulo
+
 ## Actividad 14 - Repaso segundo examen parcial
 - p82 – Operaciones básicas sobre arreglos
 
