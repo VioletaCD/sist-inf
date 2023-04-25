@@ -4,7 +4,7 @@
         float[] calificaciones = null;
         int n = 0;
 
-        do
+        do 
         {
             Console.Clear();
             Console.WriteLine("Menu:");
