@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "P83-Segundo-Examen-Parcial/1.0.0": {
+        "runtime": {
+          "P83-Segundo-Examen-Parcial.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "P83-Segundo-Examen-Parcial/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

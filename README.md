@@ -122,3 +122,6 @@
 ## Actividad 14 - Repaso segundo examen parcial
 - p82 – Operaciones básicas sobre arreglos
 
+## Examen parcial 2
+- P83-Segundo-Examen-Parcial
+

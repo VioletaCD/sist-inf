@@ -1,0 +1,15 @@
+C:\Users\vayol\Documents\sist inf\P83-Segundo-Examen-Parcial\bin\Debug\net7.0\P83-Segundo-Examen-Parcial.exe
+C:\Users\vayol\Documents\sist inf\P83-Segundo-Examen-Parcial\bin\Debug\net7.0\P83-Segundo-Examen-Parcial.deps.json
+C:\Users\vayol\Documents\sist inf\P83-Segundo-Examen-Parcial\bin\Debug\net7.0\P83-Segundo-Examen-Parcial.runtimeconfig.json
+C:\Users\vayol\Documents\sist inf\P83-Segundo-Examen-Parcial\bin\Debug\net7.0\P83-Segundo-Examen-Parcial.dll
+C:\Users\vayol\Documents\sist inf\P83-Segundo-Examen-Parcial\bin\Debug\net7.0\P83-Segundo-Examen-Parcial.pdb
+C:\Users\vayol\Documents\sist inf\P83-Segundo-Examen-Parcial\obj\Debug\net7.0\P83-Segundo-Examen-Parcial.csproj.AssemblyReference.cache
+C:\Users\vayol\Documents\sist inf\P83-Segundo-Examen-Parcial\obj\Debug\net7.0\P83-Segundo-Examen-Parcial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vayol\Documents\sist inf\P83-Segundo-Examen-Parcial\obj\Debug\net7.0\P83-Segundo-Examen-Parcial.AssemblyInfoInputs.cache
+C:\Users\vayol\Documents\sist inf\P83-Segundo-Examen-Parcial\obj\Debug\net7.0\P83-Segundo-Examen-Parcial.AssemblyInfo.cs
+C:\Users\vayol\Documents\sist inf\P83-Segundo-Examen-Parcial\obj\Debug\net7.0\P83-Segundo-Examen-Parcial.csproj.CoreCompileInputs.cache
+C:\Users\vayol\Documents\sist inf\P83-Segundo-Examen-Parcial\obj\Debug\net7.0\P83-Segundo-Examen-Parcial.dll
+C:\Users\vayol\Documents\sist inf\P83-Segundo-Examen-Parcial\obj\Debug\net7.0\refint\P83-Segundo-Examen-Parcial.dll
+C:\Users\vayol\Documents\sist inf\P83-Segundo-Examen-Parcial\obj\Debug\net7.0\P83-Segundo-Examen-Parcial.pdb
+C:\Users\vayol\Documents\sist inf\P83-Segundo-Examen-Parcial\obj\Debug\net7.0\P83-Segundo-Examen-Parcial.genruntimeconfig.cache
+C:\Users\vayol\Documents\sist inf\P83-Segundo-Examen-Parcial\obj\Debug\net7.0\ref\P83-Segundo-Examen-Parcial.dll
