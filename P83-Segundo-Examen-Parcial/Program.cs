@@ -8,7 +8,7 @@
         {
             Console.Clear();
             Console.WriteLine("Menu:");
-            Console.WriteLine("1. Leer n calificaciones flotantes");
+            Console.WriteLine("1. Leer calificaciones");
             Console.WriteLine("2. Mostrar calificaciones");
             Console.WriteLine("3. Calcular promedio y mostrar calificaciones mayores al promedio");
             Console.WriteLine("4. Mostrar el complemento a 100 del arreglo");

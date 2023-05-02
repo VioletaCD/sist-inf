@@ -1,0 +1,15 @@
+C:\Users\vayol\Documents\sist inf\p84-Empledos\bin\Debug\net7.0\p84-Empledos.exe
+C:\Users\vayol\Documents\sist inf\p84-Empledos\bin\Debug\net7.0\p84-Empledos.deps.json
+C:\Users\vayol\Documents\sist inf\p84-Empledos\bin\Debug\net7.0\p84-Empledos.runtimeconfig.json
+C:\Users\vayol\Documents\sist inf\p84-Empledos\bin\Debug\net7.0\p84-Empledos.dll
+C:\Users\vayol\Documents\sist inf\p84-Empledos\bin\Debug\net7.0\p84-Empledos.pdb
+C:\Users\vayol\Documents\sist inf\p84-Empledos\obj\Debug\net7.0\p84-Empledos.csproj.AssemblyReference.cache
+C:\Users\vayol\Documents\sist inf\p84-Empledos\obj\Debug\net7.0\p84-Empledos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vayol\Documents\sist inf\p84-Empledos\obj\Debug\net7.0\p84-Empledos.AssemblyInfoInputs.cache
+C:\Users\vayol\Documents\sist inf\p84-Empledos\obj\Debug\net7.0\p84-Empledos.AssemblyInfo.cs
+C:\Users\vayol\Documents\sist inf\p84-Empledos\obj\Debug\net7.0\p84-Empledos.csproj.CoreCompileInputs.cache
+C:\Users\vayol\Documents\sist inf\p84-Empledos\obj\Debug\net7.0\p84-Empledos.dll
+C:\Users\vayol\Documents\sist inf\p84-Empledos\obj\Debug\net7.0\refint\p84-Empledos.dll
+C:\Users\vayol\Documents\sist inf\p84-Empledos\obj\Debug\net7.0\p84-Empledos.pdb
+C:\Users\vayol\Documents\sist inf\p84-Empledos\obj\Debug\net7.0\p84-Empledos.genruntimeconfig.cache
+C:\Users\vayol\Documents\sist inf\p84-Empledos\obj\Debug\net7.0\ref\p84-Empledos.dll
