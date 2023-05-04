@@ -119,12 +119,15 @@
 - p80-suma-multiplos
 - p81–angulo
 
-## Actividad 14 - Repaso segundo examen parcial
+## Repaso segundo examen parcial
 - p82 – Operaciones básicas sobre arreglos
 
 ## Examen parcial 2
 - P83-Segundo-Examen-Parcial
 
-## Actividad 15 - Programación Orientada a Objetos - Parte 1
+## Actividad 14 - Programación Orientada a Objetos - Parte 1
 - p84 - Empleados
 - p85 - Cuenta-bancaria-v1
+
+## Actividad 15 - Programas hechos en la sesión 20
+- p86-cuenta-bancaria-v2
