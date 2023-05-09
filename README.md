@@ -131,3 +131,6 @@
 
 ## Actividad 15 - Programas hechos en la sesión 20
 - p86-cuenta-bancaria-v2
+
+## Actividad 16 - Programas hechos en la sesión 21
+- p87-control-escolar
