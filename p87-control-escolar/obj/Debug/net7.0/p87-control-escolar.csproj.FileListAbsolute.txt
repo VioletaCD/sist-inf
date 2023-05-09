@@ -1,0 +1,15 @@
+C:\Users\vayol\Documents\sist inf\p87-control-escolar\bin\Debug\net7.0\p87-control-escolar.exe
+C:\Users\vayol\Documents\sist inf\p87-control-escolar\bin\Debug\net7.0\p87-control-escolar.deps.json
+C:\Users\vayol\Documents\sist inf\p87-control-escolar\bin\Debug\net7.0\p87-control-escolar.runtimeconfig.json
+C:\Users\vayol\Documents\sist inf\p87-control-escolar\bin\Debug\net7.0\p87-control-escolar.dll
+C:\Users\vayol\Documents\sist inf\p87-control-escolar\bin\Debug\net7.0\p87-control-escolar.pdb
+C:\Users\vayol\Documents\sist inf\p87-control-escolar\obj\Debug\net7.0\p87-control-escolar.csproj.AssemblyReference.cache
+C:\Users\vayol\Documents\sist inf\p87-control-escolar\obj\Debug\net7.0\p87-control-escolar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vayol\Documents\sist inf\p87-control-escolar\obj\Debug\net7.0\p87-control-escolar.AssemblyInfoInputs.cache
+C:\Users\vayol\Documents\sist inf\p87-control-escolar\obj\Debug\net7.0\p87-control-escolar.AssemblyInfo.cs
+C:\Users\vayol\Documents\sist inf\p87-control-escolar\obj\Debug\net7.0\p87-control-escolar.csproj.CoreCompileInputs.cache
+C:\Users\vayol\Documents\sist inf\p87-control-escolar\obj\Debug\net7.0\p87-control-escolar.dll
+C:\Users\vayol\Documents\sist inf\p87-control-escolar\obj\Debug\net7.0\refint\p87-control-escolar.dll
+C:\Users\vayol\Documents\sist inf\p87-control-escolar\obj\Debug\net7.0\p87-control-escolar.pdb
+C:\Users\vayol\Documents\sist inf\p87-control-escolar\obj\Debug\net7.0\p87-control-escolar.genruntimeconfig.cache
+C:\Users\vayol\Documents\sist inf\p87-control-escolar\obj\Debug\net7.0\ref\p87-control-escolar.dll
