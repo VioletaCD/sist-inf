@@ -129,8 +129,11 @@
 - p84 - Empleados
 - p85 - Cuenta-bancaria-v1
 
-## Actividad 15 - Programas hechos en la sesión 20
+## Actividad 15 - Programación Orientada a Objetos - Parte 2
 - p86-cuenta-bancaria-v2
 
-## Actividad 16 - Programas hechos en la sesión 21
+## Actividad 16 - Programación Orientada a Objetos - Parte 3
 - p87-control-escolar
+
+## Actividad 17 - Programación Orientada a Objetos – Parte 4
+- p88-control-escolar-v2
