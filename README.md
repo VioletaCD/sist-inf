@@ -137,3 +137,6 @@
 
 ## Actividad 17 - Programación Orientada a Objetos – Parte 4
 - p88-control-escolar-v2
+
+## C - Programación Orientada a Objetos – Parte 5
+- p89-control-escolar-v3
