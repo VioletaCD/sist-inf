@@ -1,0 +1,15 @@
+C:\Users\vayol\Documents\sist inf\p89-control-escolar-v3\bin\Debug\net7.0\p89-control-escolar-v3.exe
+C:\Users\vayol\Documents\sist inf\p89-control-escolar-v3\bin\Debug\net7.0\p89-control-escolar-v3.deps.json
+C:\Users\vayol\Documents\sist inf\p89-control-escolar-v3\bin\Debug\net7.0\p89-control-escolar-v3.runtimeconfig.json
+C:\Users\vayol\Documents\sist inf\p89-control-escolar-v3\bin\Debug\net7.0\p89-control-escolar-v3.dll
+C:\Users\vayol\Documents\sist inf\p89-control-escolar-v3\bin\Debug\net7.0\p89-control-escolar-v3.pdb
+C:\Users\vayol\Documents\sist inf\p89-control-escolar-v3\obj\Debug\net7.0\p89-control-escolar-v3.csproj.AssemblyReference.cache
+C:\Users\vayol\Documents\sist inf\p89-control-escolar-v3\obj\Debug\net7.0\p89-control-escolar-v3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vayol\Documents\sist inf\p89-control-escolar-v3\obj\Debug\net7.0\p89-control-escolar-v3.AssemblyInfoInputs.cache
+C:\Users\vayol\Documents\sist inf\p89-control-escolar-v3\obj\Debug\net7.0\p89-control-escolar-v3.AssemblyInfo.cs
+C:\Users\vayol\Documents\sist inf\p89-control-escolar-v3\obj\Debug\net7.0\p89-control-escolar-v3.csproj.CoreCompileInputs.cache
+C:\Users\vayol\Documents\sist inf\p89-control-escolar-v3\obj\Debug\net7.0\p89-control-escolar-v3.dll
+C:\Users\vayol\Documents\sist inf\p89-control-escolar-v3\obj\Debug\net7.0\refint\p89-control-escolar-v3.dll
+C:\Users\vayol\Documents\sist inf\p89-control-escolar-v3\obj\Debug\net7.0\p89-control-escolar-v3.pdb
+C:\Users\vayol\Documents\sist inf\p89-control-escolar-v3\obj\Debug\net7.0\p89-control-escolar-v3.genruntimeconfig.cache
+C:\Users\vayol\Documents\sist inf\p89-control-escolar-v3\obj\Debug\net7.0\ref\p89-control-escolar-v3.dll

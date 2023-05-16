@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\vayol\\Documents\\sist inf\\p88-control-escolar-v2\\p88-control-escolar-v2.csproj": {}
+    "C:\\Users\\vayol\\Documents\\sist inf\\p89-control-escolar-v3\\p89-control-escolar-v3.csproj": {}
   },
   "projects": {
-    "C:\\Users\\vayol\\Documents\\sist inf\\p88-control-escolar-v2\\p88-control-escolar-v2.csproj": {
+    "C:\\Users\\vayol\\Documents\\sist inf\\p89-control-escolar-v3\\p89-control-escolar-v3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\vayol\\Documents\\sist inf\\p88-control-escolar-v2\\p88-control-escolar-v2.csproj",
-        "projectName": "p88-control-escolar-v2",
-        "projectPath": "C:\\Users\\vayol\\Documents\\sist inf\\p88-control-escolar-v2\\p88-control-escolar-v2.csproj",
+        "projectUniqueName": "C:\\Users\\vayol\\Documents\\sist inf\\p89-control-escolar-v3\\p89-control-escolar-v3.csproj",
+        "projectName": "p89-control-escolar-v3",
+        "projectPath": "C:\\Users\\vayol\\Documents\\sist inf\\p89-control-escolar-v3\\p89-control-escolar-v3.csproj",
         "packagesPath": "C:\\Users\\vayol\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\vayol\\Documents\\sist inf\\p88-control-escolar-v2\\obj\\",
+        "outputPath": "C:\\Users\\vayol\\Documents\\sist inf\\p89-control-escolar-v3\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\vayol\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -37,12 +37,6 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
-          "dependencies": {
-            "System.Text.Json": {
-              "target": "Package",
-              "version": "[7.0.2, )"
-            }
-          },
           "imports": [
             "net461",
             "net462",
