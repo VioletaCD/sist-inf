@@ -140,3 +140,6 @@
 
 ## C - Programación Orientada a Objetos – Parte 5
 - p89-control-escolar-v3
+
+## Examen parcial 3
+- P90-Tercer-Examen-Parcial

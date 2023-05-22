@@ -1,0 +1,15 @@
+C:\Users\vayol\Documents\sist inf\P90-Tercer-Examen-Parcial\bin\Debug\net7.0\P90-Tercer-Examen-Parcial.exe
+C:\Users\vayol\Documents\sist inf\P90-Tercer-Examen-Parcial\bin\Debug\net7.0\P90-Tercer-Examen-Parcial.deps.json
+C:\Users\vayol\Documents\sist inf\P90-Tercer-Examen-Parcial\bin\Debug\net7.0\P90-Tercer-Examen-Parcial.runtimeconfig.json
+C:\Users\vayol\Documents\sist inf\P90-Tercer-Examen-Parcial\bin\Debug\net7.0\P90-Tercer-Examen-Parcial.dll
+C:\Users\vayol\Documents\sist inf\P90-Tercer-Examen-Parcial\bin\Debug\net7.0\P90-Tercer-Examen-Parcial.pdb
+C:\Users\vayol\Documents\sist inf\P90-Tercer-Examen-Parcial\obj\Debug\net7.0\P90-Tercer-Examen-Parcial.csproj.AssemblyReference.cache
+C:\Users\vayol\Documents\sist inf\P90-Tercer-Examen-Parcial\obj\Debug\net7.0\P90-Tercer-Examen-Parcial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vayol\Documents\sist inf\P90-Tercer-Examen-Parcial\obj\Debug\net7.0\P90-Tercer-Examen-Parcial.AssemblyInfoInputs.cache
+C:\Users\vayol\Documents\sist inf\P90-Tercer-Examen-Parcial\obj\Debug\net7.0\P90-Tercer-Examen-Parcial.AssemblyInfo.cs
+C:\Users\vayol\Documents\sist inf\P90-Tercer-Examen-Parcial\obj\Debug\net7.0\P90-Tercer-Examen-Parcial.csproj.CoreCompileInputs.cache
+C:\Users\vayol\Documents\sist inf\P90-Tercer-Examen-Parcial\obj\Debug\net7.0\P90-Tercer-Examen-Parcial.dll
+C:\Users\vayol\Documents\sist inf\P90-Tercer-Examen-Parcial\obj\Debug\net7.0\refint\P90-Tercer-Examen-Parcial.dll
+C:\Users\vayol\Documents\sist inf\P90-Tercer-Examen-Parcial\obj\Debug\net7.0\P90-Tercer-Examen-Parcial.pdb
+C:\Users\vayol\Documents\sist inf\P90-Tercer-Examen-Parcial\obj\Debug\net7.0\P90-Tercer-Examen-Parcial.genruntimeconfig.cache
+C:\Users\vayol\Documents\sist inf\P90-Tercer-Examen-Parcial\obj\Debug\net7.0\ref\P90-Tercer-Examen-Parcial.dll
